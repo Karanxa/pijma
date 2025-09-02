@@ -59,3 +59,6 @@ export default App
 ```
 NODE_ENV=production yarn build
 ```
+
+
+<!-- Security scan triggered at 2025-09-02 14:29:58 -->
